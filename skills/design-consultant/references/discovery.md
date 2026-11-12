@@ -45,7 +45,7 @@ Five scales, each answered as a position from 1 to 7 with a picture at each end:
 
 ## 4. Examples he likes and hates
 
-Ask for two to four things he likes, from anywhere (a website, an app, packaging, a poster, a shop), and one or two he hates. Take screenshots or links he gives; never trawl for them. For each, say in plain words what you think he is reacting to (the space, the colour, the type, the pictures, the buttons, the personality), and ask him to confirm. Note what not to copy: one good button does not mean taking the whole site's personality.
+Ask for two to four things he likes, from anywhere (a website, an app, packaging, a poster, a shop), and one or two he hates. Take screenshots or links he gives; never trawl for them. For each, say in plain words what you think he is reacting to (the space, the colour, the type, the pictures, the buttons, the personality), and ask him to confirm. When he shares references, list every feature they share (colour blocks, rules, icons, header style, how contact is set out) and build each one in by default; he strikes what he does not want. Research rules or a design system never drop a feature silently. Never ask him to pick from a short list of a reference's features: show the full list as kept and ask what to remove.
 
 ## 5. The translation
 
