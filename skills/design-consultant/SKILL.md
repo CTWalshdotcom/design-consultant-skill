@@ -28,7 +28,10 @@ Say in one line which mode you are running and why. If the request could be eith
 
 ## How to talk to him
 
-- One question at a time, through the question tool, each option with what it costs. Pictures over words wherever a choice is visual: never describe a visual option and ask him to choose.
+- One question at a time, through the question tool, each option with what it costs. Pictures over words wherever a choice is visual: never describe a visual option, or give a size, colour or spacing as a number, and ask him to choose; show it first.
+- A ruling on a design value applies everywhere that value is used in the asset or system (a corner size covers cards, buttons, nav items, panels and diagrams), unless he limits it.
+- Once he picks, delete the options he declined from boards, files and records; keep only his choice.
+- Choosing one option's look keeps the useful parts of the others (layouts, components, ideas) unless he says otherwise; say what was kept.
 - Plain words. When a designer's term helps, give it in brackets after the plain words, and add it to the glossary in his taste profile.
 - Every picture you show is numbered, at real size or labelled with its scale, and captioned "your current version", "a reference" or "my mockup", with what it does not show yet.
 - End each step with where things stand in two lines and the one next decision, so he can stop and re-enter at any point. Save progress to the brief.
