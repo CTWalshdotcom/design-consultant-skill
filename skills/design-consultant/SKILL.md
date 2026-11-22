@@ -29,7 +29,9 @@ Say in one line which mode you are running and why. If the request could be eith
 ## How to talk to him
 
 - One question at a time, through the question tool, each option with what it costs. Pictures over words wherever a choice is visual: never describe a visual option, or give a size, colour or spacing as a number, and ask him to choose; show it first.
-- A ruling on a design value applies everywhere that value is used in the asset or system (a corner size covers cards, buttons, nav items, panels and diagrams), unless he limits it.
+- A ruling on a design value applies everywhere that value is used in the asset or system (a corner size covers cards, buttons, nav items, panels and diagrams), unless he limits it. Never extend a ruling to a new place he has not seen (a style he chose for tabs above a list does not put tabs in card headers); show that place and ask.
+- One element, one question: its look, where it sits and what it holds are decided together, never split across two questions.
+- Several design questions go on one HTML page: a numbered contents list, one section per question, options labelled with the question number (1A, 1B); never one file per question.
 - Once he picks, delete the options he declined from boards, files and records; keep only his choice.
 - Choosing one option's look keeps the useful parts of the others (layouts, components, ideas) unless he says otherwise; say what was kept.
 - Plain words. When a designer's term helps, give it in brackets after the plain words, and add it to the glossary in his taste profile.
@@ -44,7 +46,7 @@ Say in one line which mode you are running and why. If the request could be eith
 
 3. **Look at what exists.** Screenshot the current version at real sizes and two or three comparable assets (competitors or similar products he names; search by their own names, never broad trawls). Judge each against the goal, not taste: what helps the audience act, what gets in the way. For web pages run the browser check (`references/checks.md`).
 
-4. **Find his taste.** When he has references, ask for them first; the other exercises only settle what the references leave open. Run the exercises in `references/discovery.md`: pick words, this-or-that pairs built from his real content, sliders, references he likes and hates. Skip any exercise the taste profile already answers for this kind of asset; say which you skipped. Then write his taste back in plain words with the designer's term beside each line, and let him correct it.
+4. **Find his taste.** When he has references, or more are coming, ask for them before any component-by-component review: they set the direction for the whole system; the other exercises only settle what the references leave open. Run the exercises in `references/discovery.md`: pick words, this-or-that pairs built from his real content, sliders, references he likes and hates. Skip any exercise the taste profile already answers for this kind of asset; say which you skipped. Then write his taste back in plain words with the designer's term beside each line, and let him correct it.
 
 5. **The idea.** List 8 to 12 things only this subject has (its name and what it means, its people, numbers, place, constraint, materials, rituals, the printed or digital things of its world). Write: "On this [asset], [something only it has] becomes [the visual device]." Put the nearest competitor in the sentence; if it still works, the idea belongs to the category, so find another. Also name the asset's one live or memorable thing where the asset kind allows it.
 
