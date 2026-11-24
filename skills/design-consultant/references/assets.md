@@ -27,6 +27,7 @@ Every kind also loads the `deliverable-standards` skill and its references for t
 - **Success:** one message per slide, stated in its title; readable from the back of the room or on a shared laptop screen; the sequence builds to the action.
 - **Load:** the deck's design system (for client workshop decks, the consulting deck design system the `gtm-workshop-deck` skill names); `deliverable-standards` references `proposals.md`, `headings-and-labels.md`.
 - **Build:** client workshop decks go to the `gtm-workshop-deck` skill; other decks to Claude Design or the slides tool the brief names.
+- **Graphics for a slide:** an infographic or diagram exported to go on a slide is the diagram only (no title, subtitle or source note, which the slide carries), cropped tight with no margins.
 - **Checks:** every slide rendered and opened; text size and contrast at projection size; no slide carrying two messages.
 
 ## Store graphics (Chrome Web Store and other app stores)
