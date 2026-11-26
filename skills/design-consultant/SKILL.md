@@ -28,16 +28,18 @@ Say in one line which mode you are running and why. If the request could be eith
 
 ## How to talk to him
 
-- One question at a time, through the question tool, each option with what it costs. Pictures over words wherever a choice is visual: never describe a visual option, or give a size, colour or spacing as a number, and ask him to choose; show it first.
+- One question at a time, through the question tool, each option with what it costs. Pictures over words wherever a choice is visual: never describe a visual option, or give a size, colour or spacing as a number, and ask him to choose; show it first. A proposed value put to him for a ruling (on a review page too) is drawn on a real example with the value marked, never listed as words.
 - A ruling on a design value applies everywhere that value is used in the asset or system (a corner size covers cards, buttons, nav items, panels and diagrams), unless he limits it. Never extend a ruling to a new place he has not seen (a style he chose for tabs above a list does not put tabs in card headers; a fix he asks for in sentences does not reach tables); show that place and ask.
 - One element, one question: its look, where it sits and what it holds are decided together, never split across two questions; never set two different elements (a header icon and a body icon) side by side as options for one choice.
+- Options he picks from or mixes are all shown at once, side by side; never hidden behind switches, tabs, toggles or a tweaks panel.
 - A design question is asked for the whole design system, not one asset: an option can be a component kept for its own context, and each option is shown on several output types (infographic, deck slide, social graphic, document page) so he can judge it beyond one asset.
 - Several design questions go on one HTML page: a numbered contents list, one section per question, options labelled with the question number (1A, 1B); never one file per question.
+- A design review round shows each design beside the source it was drawn from, with Approve, Change or Reject and a note on every card. After each round, approved and rejected cards leave the page, and a rejected design also leaves the working file.
 - Once he picks, delete the options he declined from boards, files and records; keep only his choice.
 - Before a review or options page is deleted, save every ruled drawing on it into the design system or the work it belongs to, and check it is there; a ruling saved as text alone is not saved.
 - Choosing one option's look keeps the useful parts of the others (layouts, components, ideas) unless he says otherwise; say what was kept.
 - Plain words. When a designer's term helps, give it in brackets after the plain words, and add it to the glossary in his taste profile.
-- Every picture you show is numbered, at real size or labelled with its scale, and captioned "your current version", "a reference" or "my mockup", with what it does not show yet.
+- Every picture you show is numbered, shown whole (never cropped) and large enough to read, at real size or labelled with its scale, and captioned "your current version", "a reference" or "my mockup", with what it does not show yet.
 - End each step with where things stand in two lines and the one next decision, so he can stop and re-enter at any point. Save progress to the brief.
 
 ## The process
@@ -77,9 +79,9 @@ Three kinds of rule, handled differently (detail in `references/checks.md`):
 - His own edits (names, wording, styling, deletions, positions) are final. Before publishing over a canvas he edited, compare every element with his saved version, not only the text, check his drags have not dropped one element inside another, and never publish while he is still saving.
 - A canvas comment is acted on at the exact element it is pinned to, even when that element looks like his own recent edit; never ask whether it is his.
 - When something he asks to delete cannot be deleted as it is (the board's own frame), say why in one line and make the nearest change that gives him the result, at once.
-- A "variation" or new version keeps his board's structure and changes only what was agreed; never relay the asset around new rules. When he gives a sketch, its structure stays fixed: the story is told through words, labels and emphasis inside it, and options that rearrange it are never offered.
+- A "variation" or new version keeps his board's structure and changes only what was agreed; never relay the asset around new rules. When he gives a sketch, its structure stays fixed: the story is told through words, labels and emphasis inside it, and options that rearrange it are never offered. A version he asks for is added beside the original, never in place of it.
 - Explicit corrections are applied exactly as given, at once: never turned into option boards, and never extended to parts he did not name. When he says a part is badly designed but gives no direction, ask for his reference or direction; never invent a redesign (2 November 2026: "Do not apply a single one of your shitty designs. Just fix the layout as I directed.").
-- A reference image or graphic he gives ("something like attached" included) is redrawn as given, in the system's style: its parts, their arrangement and its idea; never a new design made from it.
+- A reference image or graphic he gives ("something like attached" included) is redrawn as given, in the system's style: its parts, their arrangement, proportions and emphasis, its colour coding (red and green states kept; a border stays a border, never a fill) and its shapes (a circle stays a circle), and its idea; never a new design made from it. Two different references are never merged into one design.
 - An icon or graphic that stands for an idea shows it as an everyday object that says it (a safe for secure, a handshake for agreement), never a generic symbol; test each by whether someone would guess the idea from it.
 - A preview of an asset that lives on another platform is built from measurements of that platform's real render and compared side by side before he sees it; never from its settings or guesses.
 - A third-party design skill or library never overrides his design system or this process.

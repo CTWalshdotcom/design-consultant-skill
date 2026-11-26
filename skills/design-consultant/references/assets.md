@@ -25,8 +25,8 @@ Every kind also loads the `deliverable-standards` skill and its references for t
 
 - **Ask:** who presents it, to whom, in what room or call, for how long; the one thing the audience must remember; the decision or action it leads to; whether it is a client workshop deck.
 - **Success:** one message per slide, stated in its title; readable from the back of the room or on a shared laptop screen; the sequence builds to the action.
-- **Load:** the deck's design system (for client workshop decks, the consulting deck design system the `gtm-workshop-deck` skill names); `deliverable-standards` references `proposals.md`, `headings-and-labels.md`.
-- **Build:** client workshop decks go to the `gtm-workshop-deck` skill; other decks to Claude Design or the slides tool the brief names.
+- **Load:** the deck's design system (every deck type, workshops included: the Infinite OS Design System's Decks section and its Slides components, with the client theme on top); `deliverable-standards` references `proposals.md`, `headings-and-labels.md`.
+- **Build:** a Slides artifact made from the approved templates in the "Infinite OS slide templates" deck (https://claude.ai/artifact/5uuZt9zscuwkptJQgmQ39B), copied, never redrawn; never a PPTX unless he asks for one.
 - **Graphics for a slide:** an infographic or diagram exported to go on a slide is the diagram only (no title, subtitle or source note, which the slide carries), cropped tight with no margins.
 - **Checks:** every slide rendered and opened; text size and contrast at projection size; no slide carrying two messages.
 
